@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StratLogger</string>
+    <string name="thickness_input">Number pad to input thickness</string>
+</resources>
